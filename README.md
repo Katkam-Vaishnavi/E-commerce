@@ -85,21 +85,6 @@ ADMIN or USER. The ADMIN has all the rights in the software including updating t
 
 ![App Screenshot](https://github.com/sourabhdaura/ecommerce.github.io/blob/main/17.png?raw=true)
 
-## You can check more Screenshot in Project Report and also uploaded .png (Screenshot files)
-
-Youtube Project Demo Video Link - https://youtu.be/8doMHiXLWEI
-
-
-## Need Software to run the Project
-install Python,
-install django,
-install pycharm
-
-## download xampp (Please Start Apache and MySQL before running the project)
-
-## Please Check Project Report For more Details
-
-## All Credits Goes to Sourabh Daura (sourabh.daura@gmail.com)
 
 
 
